@@ -1,0 +1,7 @@
+vieneu>=3.0
+f5-tts
+huggingface_hub
+cached_path
+soundfile
+numpy
+imageio-ffmpeg

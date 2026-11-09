@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.cache/
+out/
+voices/
+*.wav
+*.pt
+*.onnx
